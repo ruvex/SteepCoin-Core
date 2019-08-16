@@ -1,9 +1,9 @@
-// Copyright (c) 2018 The Dash Core developers
+// Copyright (c) 2018 The steepcoin Core developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef DASH_QUORUMS_BLOCKPROCESSOR_H
-#define DASH_QUORUMS_BLOCKPROCESSOR_H
+#ifndef steepcoin_QUORUMS_BLOCKPROCESSOR_H
+#define steepcoin_QUORUMS_BLOCKPROCESSOR_H
 
 #include "llmq/quorums_commitment.h"
 #include "llmq/quorums_utils.h"
@@ -68,4 +68,4 @@ extern CQuorumBlockProcessor* quorumBlockProcessor;
 
 }
 
-#endif//DASH_QUORUMS_BLOCKPROCESSOR_H
+#endif//steepcoin_QUORUMS_BLOCKPROCESSOR_H

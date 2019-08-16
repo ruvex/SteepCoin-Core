@@ -1,39 +1,39 @@
-Dash Core 0.14.0
+steepcoin Core 0.14.0
 =====================
 
-This is the official reference wallet for Dash digital currency and comprises the backbone of the Dash peer-to-peer network. You can [download Dash Core](https://www.dash.org/downloads/) or [build it yourself](#building) using the guides below.
+This is the official reference wallet for steepcoin digital currency and comprises the backbone of the steepcoin peer-to-peer network. You can [download steepcoin Core](https://www.steepcoin.org/downloads/) or [build it yourself](#building) using the guides below.
 
 Running
 ---------------------
-The following are some helpful notes on how to run Dash on your native platform.
+The following are some helpful notes on how to run steepcoin on your native platform.
 
 ### Unix
 
 Unpack the files into a directory and run:
 
-- `bin/dash-qt` (GUI) or
-- `bin/dashd` (headless)
+- `bin/steepcoin-qt` (GUI) or
+- `bin/steepcoind` (headless)
 
 ### Windows
 
-Unpack the files into a directory, and then run dash-qt.exe.
+Unpack the files into a directory, and then run steepcoin-qt.exe.
 
 ### OS X
 
-Drag Dash-Qt to your applications folder, and then run Dash-Qt.
+Drag steepcoin-Qt to your applications folder, and then run steepcoin-Qt.
 
 ### Need Help?
 
-* See the [Dash documentation](https://docs.dash.org)
+* See the [steepcoin documentation](https://docs.steepcoin.org)
 for help and more information.
-* See the [Dash Developer Documentation](https://dash-docs.github.io/) 
+* See the [steepcoin Developer Documentation](https://steepcoin-docs.github.io/) 
 for technical specifications and implementation details.
-* Ask for help on [Dash Nation Discord](http://dashchat.org)
-* Ask for help on the [Dash Forum](https://dash.org/forum)
+* Ask for help on [steepcoin Nation Discord](http://steepcoinchat.org)
+* Ask for help on the [steepcoin Forum](https://steepcoin.org/forum)
 
 Building
 ---------------------
-The following are developer notes on how to build Dash Core on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
+The following are developer notes on how to build steepcoin Core on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
 
 - [OS X Build Notes](build-osx.md)
 - [Unix Build Notes](build-unix.md)
@@ -43,7 +43,7 @@ The following are developer notes on how to build Dash Core on your native platf
 
 Development
 ---------------------
-The Dash Core repo's [root README](/README.md) contains relevant information on the development process and automated testing.
+The steepcoin Core repo's [root README](/README.md) contains relevant information on the development process and automated testing.
 
 - [Developer Notes](developer-notes.md)
 - [Release Notes](release-notes.md)
@@ -59,8 +59,8 @@ The Dash Core repo's [root README](/README.md) contains relevant information on 
 - [Benchmarking](benchmarking.md)
 
 ### Resources
-* Discuss on the [Dash Forum](https://dash.org/forum), in the Development & Technical Discussion board.
-* Discuss on [Dash Nation Discord](http://dashchat.org)
+* Discuss on the [steepcoin Forum](https://steepcoin.org/forum), in the Development & Technical Discussion board.
+* Discuss on [steepcoin Nation Discord](http://steepcoinchat.org)
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)

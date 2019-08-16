@@ -1,9 +1,9 @@
-// Copyright (c) 2018-2019 The Dash Core developers
+// Copyright (c) 2018-2019 The steepcoin Core developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef DASH_QUORUMS_SIGNING_H
-#define DASH_QUORUMS_SIGNING_H
+#ifndef steepcoin_QUORUMS_SIGNING_H
+#define steepcoin_QUORUMS_SIGNING_H
 
 #include "llmq/quorums.h"
 
@@ -188,4 +188,4 @@ extern CSigningManager* quorumSigningManager;
 
 }
 
-#endif //DASH_QUORUMS_SIGNING_H
+#endif //steepcoin_QUORUMS_SIGNING_H

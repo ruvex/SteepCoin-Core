@@ -1,15 +1,15 @@
 [Unit]
-Description=Dash's distributed currency daemon
+Description=steepcoin's distributed currency daemon
 After=network.target
 
 [Service]
-User=dashcore
-Group=dashcore
+User=steepcoincore
+Group=steepcoincore
 
 Type=forking
-PIDFile=/var/lib/dashd/dashd.pid
-ExecStart=/usr/bin/dashd -daemon -pid=/var/lib/dashd/dashd.pid \
--conf=/etc/dashcore/dash.conf -datadir=/var/lib/dashd -disablewallet
+PIDFile=/var/lib/steepcoind/steepcoind.pid
+ExecStart=/usr/bin/steepcoind -daemon -pid=/var/lib/steepcoind/steepcoind.pid \
+-conf=/etc/steepcoincore/steepcoin.conf -datadir=/var/lib/steepcoind -disablewallet
 
 Restart=always
 PrivateTmp=true

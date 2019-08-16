@@ -1,8 +1,8 @@
-// Copyright (c) 2014-2018 The Dash Core developers
+// Copyright (c) 2014-2018 The steepcoin Core developers
 
 #include "cachemultimap.h"
 
-#include "test/test_dash.h"
+#include "test/test_steepcoin.h"
 
 #include <algorithm>
 #include <iostream>

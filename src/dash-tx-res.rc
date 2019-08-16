@@ -16,14 +16,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Dash"
-            VALUE "FileDescription",    "dash-tx (CLI Dash transaction editor utility)"
+            VALUE "CompanyName",        "steepcoin"
+            VALUE "FileDescription",    "steepcoin-tx (CLI steepcoin transaction editor utility)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "dash-tx"
+            VALUE "InternalName",       "steepcoin-tx"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "dash-tx.exe"
-            VALUE "ProductName",        "dash-tx"
+            VALUE "OriginalFilename",   "steepcoin-tx.exe"
+            VALUE "ProductName",        "steepcoin-tx"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

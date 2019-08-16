@@ -1,11 +1,11 @@
 Sample configuration files for:
 
-SystemD: dashd.service
-Upstart: dashd.conf
-OpenRC:  dashd.openrc
-         dashd.openrcconf
-CentOS:  dashd.init
-OS X:    org.dash.dashd.plist
+SystemD: steepcoind.service
+Upstart: steepcoind.conf
+OpenRC:  steepcoind.openrc
+         steepcoind.openrcconf
+CentOS:  steepcoind.init
+OS X:    org.steepcoin.steepcoind.plist
 
 have been made available to assist packagers in creating node packages here.
 

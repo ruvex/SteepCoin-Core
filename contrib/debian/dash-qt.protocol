@@ -1,6 +1,6 @@
 [Protocol]
-exec=dash-qt '%u'
-protocol=dash
+exec=steepcoin-qt '%u'
+protocol=steepcoin
 input=none
 output=none
 helper=true

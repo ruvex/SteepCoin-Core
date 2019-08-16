@@ -143,7 +143,7 @@ public:
 };
 
 /**
- * Dash RPC command dispatcher.
+ * steepcoin RPC command dispatcher.
  */
 class CRPCTable
 {

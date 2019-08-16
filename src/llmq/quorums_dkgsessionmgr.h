@@ -1,9 +1,9 @@
-// Copyright (c) 2018 The Dash Core developers
+// Copyright (c) 2018 The steepcoin Core developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef DASH_QUORUMS_DKGSESSIONMGR_H
-#define DASH_QUORUMS_DKGSESSIONMGR_H
+#ifndef steepcoin_QUORUMS_DKGSESSIONMGR_H
+#define steepcoin_QUORUMS_DKGSESSIONMGR_H
 
 #include "llmq/quorums_dkgsessionhandler.h"
 
@@ -76,4 +76,4 @@ extern CDKGSessionManager* quorumDKGSessionManager;
 
 }
 
-#endif //DASH_QUORUMS_DKGSESSIONMGR_H
+#endif //steepcoin_QUORUMS_DKGSESSIONMGR_H
