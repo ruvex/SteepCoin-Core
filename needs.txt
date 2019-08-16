@@ -1,0 +1,96 @@
+https://en.bitcoin.it/wiki/List_of_address_prefixes
+
+https://en.bitcoin.it/wiki/Base58Check_encoding
+
+
+https://en.bitcoin.it/wiki/Wallet_import_format    #WIF конвертируется в шестнадцатеричный формат и обратно при помощи base58 кодирования
+
+
+https://iancoleman.github.io/bip39/
+
+http://bip32.org/
+
+https://git-scm.com/book/ru/v2/GitHub-%D0%92%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4%D0%B0-%D0%B2-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B     #GitHub-Внесение-собственного-вклада-в-проекты
+
+https://habr.com/ru/post/198142/ #QtCreator: Qt кросс-компиляция из linux 64 в linux 32, win32, win64 и Mac OS X; upx, usb, dmg, etc
+
+http://qtlinux.narod.ru/make_for_win.htm    #Сборка в Ubuntu приложений для Windows
+
+https://onstartup.ru/razrabotka/mingw-w64/  #Как установить mingw-w64 в Ubuntu / Debian  для сборки в линукс приложений для 64 бит
+
+https://onstartup.ru/articles/linux/graficheskaja-obolochka-ubuntu-server-18-04/    #удаленное подключение к серверу
+
+
+https://onstartup.ru/  #SUPER site for ALL
+
+https://onstartup.ru/java/cronometer/  #Простой в использовании ежедневный трекер потребления питательных веществ, который включает в себя информацию о питании более чем 8000 продуктов. Пользователь может создавать, импортировать и экспортировать собственные продукты и рецепты, а также устанавливать личные цели для каждого питательного вещества. CRON-O-Meter также может отслеживать и наметить вашу биометрию (вес, кровяное давление, температуру и т. Д.) И генерировать подробные отчеты о вашем потреблении пищи.
+
+
+http://qtlinux.narod.ru/index.html #В поддержку Qt статьи в помощь разработчику
+
+https://bitcointalk.org/index.php?topic=2884838.0   #как запустить лайтнинг ноду
+
+https://habr.com/ru/post/319860/   #Bitcoin in a nutshell — Transaction
+
+http://gavinandresen.ninja/utxo-uhoh
+
+https://en.bitcoin.it/wiki/Script
+
+https://en.bitcoin.it/wiki/OP_RETURN
+
+http://bitcoin.stackexchange.com/questions/29554/explanation-of-what-an-op-return-transaction-looks-like
+
+https://github.com/walletgeneratornet/WalletGenerator.net/wiki/How-to-add-a-new-currency
+
+https://numbermonk.com/?all=1   #Most popular numbers
+
+
+https://forum.bits.media/index.php?/blogs/entry/248-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%BF%D0%BE-%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B5-%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0-electrum/     #248-руководство-по-сборке-собственного-сервера-electrum
+
+https://github.com/chris-belcher/electrum-personal-server 
+
+
+https://losst.ru/kak-polzovatsya-koshelkom-electrum
+
+
+https://losst.ru/majning-efira-na-ubuntu
+
+https://losst.ru/udalennyj-rabochij-stol-ubuntu-16-04
+
+https://www.npmjs.com/package/xpub-generator
+
+https://www.youtube.com/watch?v=ojnorQjX5jI&list=PL1mkWlKl32oddt02un0if2ooy7w2jOczP          #Bitcoin Cash Wallet Coding Tutorial
+
+http://gearmobile.github.io/mongodb/mongodb-databases/    #Создание базы данных
+
+
+http://gearmobile.github.io/virtual-host-xampp-linux-mint/       #Virtual Host под XAMPP в Linux Mint
+
+
+https://openzeppelin.com/contracts/    #Build Secure Smart Contracts in Solidity
+
+
+https://api.coingecko.com/api/v3/coins/steepcoin/tickers
+
+https://bitcointalk.org/index.php?topic=2867672.0   #Как подтянуть в Excel ценник монеты с Coinmarketcap (API v2)
+
+
+https://medium.com/@crowdcoinpeople/death-of-crowdcoin-long-life-to-crowdcoin-a6ed17e9a46a
+
+https://ru.bitcoinwiki.org/wiki/X16R
+
+https://ru.bitcoinwiki.org/wiki/X11
+
+https://cryptoside.ru/mining-x16r-amd/
+
+https://cryptoside.ru/rvn-coin-raven-coin/
+
+http://ceur-ws.org/Vol-1989/paper29.pdf  #how create dash clone
+
+https://ru.bitcoinwiki.org/wiki/X17
+
+https://bitcoin.stackexchange.com/questions/85015/generating-first-block-after-genesis-block-in-pos-altcoin?rq=1
+
+
+http://coinofview.com/coin/XCurrency.html
+
